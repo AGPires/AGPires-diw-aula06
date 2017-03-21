@@ -1,0 +1,36 @@
+body{
+	background: black;
+	color: white;
+	font-family: Consolas;
+}
+.stilo1{
+	color:#00c8f1;
+}
+.stilo2{
+	color:#f7f8f8;
+}
+.stilo3{
+	color:red;
+	font-weight: bold;
+}
+.stilo4{
+	color:#eece00;
+}
+.stilo5{
+	color:#be00d1;
+}
+#coment{
+	color:#a4a4a4;
+	font-style: italic;
+}
+.textprincipal{
+	color:#d0d0d0;
+}
+
+#desig{
+	text-indent: 20px;
+	line-height: 50%;
+}
+.fs{
+	font-weight: bold;
+}
